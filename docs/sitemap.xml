@@ -3,12 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://buildremote.github.io/buildremote/posts/my-first-post/</loc>
+    <lastmod>2017-09-19T15:54:00-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://buildremote.github.io/buildremote/</loc>
+    <lastmod>2017-09-19T15:54:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://buildremote.github.io/buildremote/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://buildremote.github.io/buildremote/posts/</loc>
+    <lastmod>2017-09-19T15:54:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
