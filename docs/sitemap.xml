@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://buildremote.github.io/</loc>
+    <loc>https://buildremote.github.io/buildremote/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://buildremote.github.io/categories/</loc>
+    <loc>https://buildremote.github.io/buildremote/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://buildremote.github.io/tags/</loc>
+    <loc>https://buildremote.github.io/buildremote/tags/</loc>
     <priority>0</priority>
   </url>
   
