@@ -1,4 +1,4 @@
-baseURL = "buildremote.github.io"
+baseURL = "https://buildremote.github.io"
 languageCode = "en-us"
 title = "Build Remote"
 publishDir = "docs"
